@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Funçao começanco com letra minúscula:
+// Funçao começando com letra minúscula:
 // Função é Privada exemplo PrintName = Publica, printName = Privada
 // Função ela só pode ser utilizada no próprio package
 // Como utilizaria ela fora do package: main.PrintName(name)
